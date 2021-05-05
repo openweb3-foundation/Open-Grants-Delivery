@@ -1,2 +1,2 @@
-# Setheum-Grant-Delivery
+# Setheum Grant Delivery
 Repository to submit finished milestones 
