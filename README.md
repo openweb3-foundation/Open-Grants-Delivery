@@ -1,5 +1,5 @@
-# SOGP Grant Delivery
+# Open Grants Delivery
 
-## Setheum Open Grant Program - Grant Delivery Repository
+## Open Grants Program - Grant Delivery Repository
 
-Repository to submit finished SOGP milestones 
+Repository to submit finished Open Grants milestones 
